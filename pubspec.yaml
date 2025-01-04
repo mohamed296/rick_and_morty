@@ -1,0 +1,97 @@
+name: rick_and_morty
+description: "A new Flutter project."
+
+publish_to: "none"
+
+# Project version
+version: 1.0.0+1
+
+# SDK environment
+environment:
+  sdk: ^3.5.4
+
+# Project dependencies
+dependencies:
+  # ----------------------------
+  # Core Flutter Dependencies
+  # ----------------------------
+  # Flutter framework
+  flutter:
+    sdk: flutter
+
+  # Cupertino icons (for iOS-like UI elements)
+  cupertino_icons: ^1.0.8
+
+  # ----------------------------
+  # State Management
+  # ----------------------------
+  # Bloc library for state management
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
+
+  # Equatable for simplifying object comparison
+  equatable: ^2.0.7
+
+  # Talker Bloc Logger for logging state changes
+  talker_bloc_logger: ^4.6.0
+
+  # ----------------------------
+  # Networking
+  # ----------------------------
+  # Dio for HTTP requests
+  dio: ^5.7.0
+
+  # Talker Dio Logger for logging HTTP requests
+  talker_dio_logger: ^4.6.0
+
+  # ----------------------------
+  # Navigation and Routing
+  # ----------------------------
+  # GoRouter for managing navigation between screens
+  go_router: ^14.6.2
+
+  # ----------------------------
+  # Utilities
+  # ----------------------------
+  # GetIt for dependency injection
+  get_it: ^8.0.3
+
+  # Flutter Hooks for simplifying state management
+  flutter_hooks: ^0.20.5
+
+  # Path Provider for accessing local file paths
+  path_provider: ^2.1.5
+
+
+  # Intl for handling localization, dates, and text formatting
+  intl: ^0.20.1
+
+  # Google Fonts for using custom fonts in your application
+  google_fonts: ^6.2.1
+
+  # ----------------------------
+  # Database
+  # ----------------------------
+  # Realm for local database management
+  realm: ^20.0.0
+
+  # ----------------------------
+  # Pagination
+  # ----------------------------
+  # Enhanced Paginated View for implementing infinite scroll
+  enhanced_paginated_view: ^2.0.1
+
+  
+
+# Development and testing dependencies
+dev_dependencies:
+  # Flutter Test for writing tests
+  flutter_test:
+    sdk: flutter
+
+  # Lints for code analysis and improvement
+  flutter_lints: ^4.0.0
+
+# Design configuration
+flutter:
+  uses-material-design: true

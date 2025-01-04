@@ -1,0 +1,1 @@
+ /Users/bstar/in-code-app/rick_and_morty/.dart_tool/flutter_build/fd04e0f66d3793d8714305d047d8ac26/native_assets.yaml: 
