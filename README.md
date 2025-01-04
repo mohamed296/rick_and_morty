@@ -85,11 +85,3 @@ For a visual demonstration of the application's features, you can watch the foll
 
 [Demonstration Video](https://drive.google.com/file/d/1V7jL6tWvz9Wc1EljwdwVVFOsAD7oLrhK/view?usp=sharing)
 
-### Additional Resources
-
-For further assistance in Flutter development, consider the following resources:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- [Flutter Online Documentation](https://docs.flutter.dev/): Offers tutorials, samples, guidance on mobile development, and a full API reference.
-
